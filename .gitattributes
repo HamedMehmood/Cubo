@@ -1,0 +1,9 @@
+
+
+
+
+# Specify file types as text  
+*.html text  
+*.css text  
+*.js text  
+
