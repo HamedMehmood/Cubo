@@ -1,9 +1,11 @@
+# Treat HTML files as HTML  
+*.html linguist-language=HTML  
 
+# Treat JavaScript files as JavaScript  
+*.js linguist-language=JavaScript  
 
+# Treat CSS files as CSS  
+*.css linguist-language=CSS  
 
-
-# Specify file types as text  
-*.html text  
-*.css text  
-*.js text  
-
+# Treat Markdown files as Markdown  
+*.md linguist-language=Markdown
