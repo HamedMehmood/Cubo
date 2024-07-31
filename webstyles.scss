@@ -1,0 +1,8 @@
+.gradient1 {
+  display: inline-block;
+  font-size: 96px;
+  margin: 0;
+  opacity: 0.9;
+  
+  @include gradient-text('CSS Gradient Text', #04161f, linear-gradient(to right, #95fcff, #95dbff, #95aeff, #c295ff, #ea95ff));
+}
